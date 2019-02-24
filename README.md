@@ -12,8 +12,6 @@ Physical and mathematical subjects that are addressed include:
 
 The material presented here closely follows "Statistical Mechanics: Algorithms and Computations" by W. Krauth from the École normale supérieure and "Statistical Mechanics: A Set of Lectures" by R. P. Feynman.
 
-![Ising model Metropolis simulation](ising.gif =250x) ![XY model Metropolis simulation](gif_small.gif =250x) 
-
-<img src="ising.gif" width="200" height="200" />
+<img src="ising.gif" width="200" height="200" /> <img src="gif_small.gif" width="200" height="200" />
 
 ![Path integral Monte Carlo simulations](snapshot_00043.png)
